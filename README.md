@@ -1,4 +1,5 @@
 # LIVE DEMO :~>
+[https://yashdeepmukulsinghpatel.github.io/YashdeepMukulSingh.github.io/](https://yashdeepmukulsinghpatel.github.io/YashdeepMukulSingh.github.io/)
 ---
 # The Meal App :-
 This project is a web application that utilizes the power of vanilla JavaScript to provide a seamless user experience. The main feature of the app is its ability to search for food recipes using the Themealdb API.
@@ -41,5 +42,4 @@ The app also includes a feature to watch recipe videos on youtube.
         🟠 CSS 
         🟠 Vanilla Javascript 
         🟠 Bootstrap
- # Screenshots 📷
        
